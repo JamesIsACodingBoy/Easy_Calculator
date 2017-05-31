@@ -120,5 +120,10 @@ namespace My_calculator
         {
             textBox1.Text = "";
         }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += button17.Text;
+        }
     }
 }

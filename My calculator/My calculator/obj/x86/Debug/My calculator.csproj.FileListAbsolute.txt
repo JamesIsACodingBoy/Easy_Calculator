@@ -1,0 +1,7 @@
+F:\Project\My calculator\My calculator\bin\Debug\My calculator.exe
+F:\Project\My calculator\My calculator\bin\Debug\My calculator.pdb
+F:\Project\My calculator\My calculator\obj\x86\Debug\My_calculator.Form1.resources
+F:\Project\My calculator\My calculator\obj\x86\Debug\My_calculator.Properties.Resources.resources
+F:\Project\My calculator\My calculator\obj\x86\Debug\My calculator.csproj.GenerateResource.Cache
+F:\Project\My calculator\My calculator\obj\x86\Debug\My calculator.exe
+F:\Project\My calculator\My calculator\obj\x86\Debug\My calculator.pdb

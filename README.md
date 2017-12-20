@@ -6,6 +6,4 @@ this my one of C# Project about calculator
 
 Maybe it's looks easy.
 
-but.i'll try do more change at next time.
-
-please keep waiting!
+这是我玩玩C#时做的...hhhh
